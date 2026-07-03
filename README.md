@@ -9,6 +9,28 @@
 [![Platforms](https://img.shields.io/badge/platforms-Web%20%7C%20Windows%20%7C%20Apple%20%7C%20Android-14b8a6?style=for-the-badge&labelColor=111111)](README.md)
 [![Made for Agents](https://img.shields.io/badge/made%20for-AI%20coding%20agents-0ea5e9?style=for-the-badge&labelColor=111111)](README.md)
 
+> **Created by Levon Tutundzhian** ([@tutundzhian](https://x.com/tutundzhian)) 
+> A dedicated Solana memecoin ecosystem project is launching alongside StarkAI. Keep a sharp lookout on my X account for further details.
+
+StarkAI is an advanced UI/UX design plugin for LLMs and AI coding agents. 
+
+Most AI generated code suffers from "AI design slop" generic templates, outdated layout models, and a total disregard for platforms. StarkAI acts as a design layer. It forces agents to choose the right product flow, platform idiom, visual direction, motion curves, and design-token strategy **before** they type a single line of frontend code. 
+
+The goal is simple: fewer generic boilerplate clones, more high-fidelity, production-ready interfaces.
+
+---
+
+## Why StarkAI?
+
+When an AI agent is asked to "build a dashboard," it almost always defaults to a generic Web-based Vite + Tailwind template. It skips critical considerations like empty states, loading skeleton layout shifts, keyboard accessibility, or native operating system ergonomics.
+
+StarkAI solves this by injecting constraints and design context directly into the agent's reasoning loop:
+* **Contextual Grounding:** Stops agents from guessing API structures or token formats.
+* **Platform Awareness:** Ensures a Windows app uses native Fluent styling (like Mica or Acrylic) rather than rendering a web wrapper that looks out of place.
+* **Friction reduction:** Bridges the massive gap between a raw product brief and fully implemented frontend files.
+
+---
+
 UI/UX design plugin for AI coding agents.
 
 Stark helps agents choose the right product flow, platform idiom, visual direction, motion, assets, and design-token strategy before writing code. The goal is simple: fewer generic template clones, more usable product-specific interfaces.
