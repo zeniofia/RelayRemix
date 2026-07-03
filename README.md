@@ -2,7 +2,7 @@
   <img src="assets/logo/stark-mark.svg" alt="stark logo" width="96" height="96">
 </p>
 
-# stark
+# StarkAI
 
 [![Release](https://img.shields.io/github/v/release/f0d010c/stark?style=for-the-badge&label=release&labelColor=111111&color=ff6b4a)](https://github.com/f0d010c/stark/releases)
 [![License](https://img.shields.io/badge/license-Apache--2.0-8b5cf6?style=for-the-badge&labelColor=111111)](LICENSE)
@@ -10,7 +10,7 @@
 [![Made for Agents](https://img.shields.io/badge/made%20for-AI%20coding%20agents-0ea5e9?style=for-the-badge&labelColor=111111)](README.md)
 
 > **Created by Levon Tutundzhian** ([@tutundzhian](https://x.com/tutundzhian)) 
-> A dedicated Solana memecoin ecosystem project is launching alongside StarkAI. Keep a sharp lookout on my X account for further details.
+> My dedicated Solana memecoin is launching alongside StarkAI. Keep a sharp lookout on my X account for further details.
 
 StarkAI is an advanced UI/UX design plugin for LLMs and AI coding agents. 
 
