@@ -9,9 +9,6 @@
 [![Platforms](https://img.shields.io/badge/platforms-Web%20%7C%20Windows%20%7C%20Apple%20%7C%20Android-14b8a6?style=for-the-badge&labelColor=111111)](README.md)
 [![Made for Agents](https://img.shields.io/badge/made%20for-AI%20coding%20agents-0ea5e9?style=for-the-badge&labelColor=111111)](README.md)
 
-> **Created by Levon Tutundzhian** ([@tutundzhian](https://x.com/tutundzhian)) 
-> My dedicated Solana memecoin is launching alongside StarkAI. Keep a sharp lookout on my X account for further details.
-
 StarkAI is an advanced UI/UX design plugin for LLMs and AI coding agents. 
 
 Most AI generated code suffers from "AI design slop" generic templates, outdated layout models, and a total disregard for platforms. StarkAI acts as a design layer. It forces agents to choose the right product flow, platform idiom, visual direction, motion curves, and design-token strategy **before** they type a single line of frontend code. 
